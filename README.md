@@ -1,2 +1,2 @@
-# my-dij-php
-my-dij-php
+# my-dji-php
+[my-dji](http://lyzhie.com/dji.html)
